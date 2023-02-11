@@ -1,0 +1,16 @@
+.cuisine-cont {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-gap: 3rem;
+}
+
+.cuis-item img {
+    border-radius: 2rem;
+    width: 200px;
+}
+
+.cuis-item p {
+    padding: 1rem;
+    text-align: center;
+    font-size: 15px;
+}

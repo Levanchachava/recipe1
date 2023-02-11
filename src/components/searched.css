@@ -1,0 +1,16 @@
+.Searcheditem-cont {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-gap: 3rem;
+}
+
+.searchitem img {
+    border-radius: 2rem;
+    width: 205px;
+}
+
+.searchitem p {
+    padding: 1rem;
+    text-align: center;
+    font-size: 15px;
+}

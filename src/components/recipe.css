@@ -1,0 +1,51 @@
+.recipe-cont {
+    display: flex;
+    width: 1000px;
+    margin-left: -100px;
+}
+
+.div1 img {
+    width: 400px;
+    margin-top: 15px;
+}
+.div1 h4 {
+    font-size: 20px;
+}
+
+
+.btn {
+    margin-left: 100px;
+}
+
+.btn button {
+    margin: 10px;
+    width: 160px;
+    height: 35px;
+    /* text-transform: uppercase; */
+    font-weight: 500;
+    /* background: white; */
+    border: 1.8px solid black;
+    cursor: pointer;
+}
+
+.actives {
+    background-color: black;
+    color: white;
+}
+
+.instr-cont {
+    width: 550px;
+}
+
+.instr-cont p {
+    line-height: 25px;
+    color: rgb(19, 19, 19);
+    margin-top: 20px;
+    font-family:cursive;
+}
+
+.btn li {
+    font-size: 18px;
+    font-family:cursive;
+    line-height: 28px;
+}
